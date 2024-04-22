@@ -7,8 +7,6 @@ import java.time.LocalDate;
 import java.util.Collection;
 import java.util.List;
 
-import static org.junit.jupiter.api.Assertions.*;
-
 class DateSorterTest {
     @Test
     public void sortDatesTest() {
